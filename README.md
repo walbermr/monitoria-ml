@@ -5,7 +5,7 @@
 
 Usar o Google Colab é a forma mais simples de executar os códigos em python.
 
-1. Primeiro, entre em [colab.research.google.com](colab.research.google.com[colab.research.google.com]). Após o login, será mostrada a tela abaixo com os notebooks mais recentes que você abriu.
+1. Primeiro, entre em https://colab.research.google.com . Após o login, será mostrada a tela abaixo com os notebooks mais recentes que você abriu.
 
 ![Colab 1](./imagens/colab1.png)
 
