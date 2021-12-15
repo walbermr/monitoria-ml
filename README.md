@@ -17,11 +17,11 @@ Usar o Google Colab é a forma mais simples de executar os códigos em python.
 
 3. Finalmente, com o notebook aberto, você poderá programar e executa-lo como quiser. Para garantir que todas as variáveis estarão configuradas, clique na aba _Ambiente de execução_ e clique em _Executar tudo_.
 
-    Um notebook é composto por duas células fundamentais, uma célula _markdown_ e uma célula de código.
+    Um notebook é composto por duas células base, uma célula _markdown_ e uma célula de código.
 
-    Os células _markdown_ são os células que contém texto. Neles, podem ser inseridas equações no formato LaTeX.
+    As células _markdown_ são células que contém texto. Além de texto, equações no formato LaTeX também podem ser inseridas.
 
-    Já os células de código você pode executar trechos de código em python de forma isolada.
+    Já nas células de código, você pode executar os trechos de código em python de forma isolada.
 
 ![Colab 3](./imagens/colab3.png)
     
